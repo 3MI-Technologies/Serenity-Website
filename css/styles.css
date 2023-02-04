@@ -3,5 +3,7 @@ html, body {
 }
 
 h1 {
-    color: rgb(200,200,200);
+    color: white;
+    font-weight: 400;
+    font-size: 17.5px;
 }
